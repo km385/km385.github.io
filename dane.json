@@ -1,35 +1,35 @@
 [
     {
       "id": 1,
-      "image": "/assets/img/testimonials/testimonials-1.jpg",
+      "image": "assets/img/testimonials/testimonials-1.jpg",
       "name": "Łukasz Łuczaj",
       "occupation": "właściciel sklepu",
       "body": "bardzo fajny gmach, polecam robert makłowicz"
     },
     {
       "id": 2,
-      "image": "/assets/img/testimonials/testimonials-2.jpg",
+      "image": "assets/img/testimonials/testimonials-2.jpg",
       "name": "Rektor politechniki",
       "occupation": "designer",
       "body": "fantastyczna obsluga"
     },
     {
       "id": 3,
-      "image": "/assets/img/testimonials/testimonials-3.jpg",
+      "image": "assets/img/testimonials/testimonials-3.jpg",
       "name": "Napewno nie bot",
       "occupation": "właściciel sklepu",
       "body": "bardzo ładnie "
     },
     {
       "id": 4,
-      "image": "/assets/img/testimonials/testimonials-4.jpg",
+      "image": "assets/img/testimonials/testimonials-4.jpg",
       "name": "prawdziwy klient",
       "occupation": "właściciel sklepu",
       "body": "nie podoba mi sie"
     },
     {
       "id": 5,
-      "image": "/assets/img/testimonials/testimonials-5.jpg",
+      "image": "assets/img/testimonials/testimonials-5.jpg",
       "name": "Łukasz Łuczaj 3",
       "occupation": "właściciel sklepu",
       "body": "nie podoba mi sie"
